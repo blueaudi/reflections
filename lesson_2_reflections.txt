@@ -12,5 +12,8 @@ repository?  What value do you think it offers?
 	of files in the working directory that will be included in the commit
 	and those that will not.
 
+How can you use the staging area to make sure you have one commit per
+logical change?
 
+	Ummmmmmmmm?  I don't know the answer to this one!
 	
