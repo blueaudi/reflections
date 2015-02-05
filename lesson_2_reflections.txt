@@ -1,0 +1,16 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+	A .git directory is created containing files/folders necessary to
+	provide version tracking.  This creates the framework git requires
+	for tracking.
+
+How is the staging area different from the working directory and the
+repository?  What value do you think it offers?
+
+	The staging area contains those files in the working directory that
+	we want to be contained in the commit.  This allows the segregation
+	of files in the working directory that will be included in the commit
+	and those that will not.
+
+
+	
