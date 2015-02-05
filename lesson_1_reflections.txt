@@ -1,0 +1,49 @@
+How did viewing a diff between two versions of a file help you see the bug that
+was introduced?
+
+    By displaying the content of code lines that are different, it is easy to
+	see at a glance what the differences are and what bugs might have been
+	introduced by that particular change.
+
+How could having easy access to the entire history of a file make you a more
+efficient programmer in the long term?
+
+    By having access to all previous versions of a file, you can easily compare
+	the different versions to determine what worked and what didn't.  And you
+	might find that some of your changes actually made the code worse.  Being
+	able to view a history of your mistakes can only lead to more efficient
+	code production.
+
+What do you think are the pros and cons of manually choosing when to create a
+commit, like you do in Git, vs having versions automatically saved, like Google
+docs does?
+
+    Pros:  Allows the programmer flexibility to make commits as they see fit,
+	when they deem the changes sufficient to warrant saving them.
+	Cons:  Manually making commits inherently allows the possibility that the
+	programmer might forget to save changes at an appropriate commit interval.
+
+Why do you think some version control systems, like Git, allow saving multiple
+files in one commit, while others, like Google Docs, treat each file separately?
+
+    Git's purpose is such that multiple files often are inherently interconnected,
+	and hence it make sense to commit the files as a group rather than separately.
+	Individual Google Docs are less likely to be interconnected, so saving the
+	versions separately makes more sense.
+
+How can you use the commands git log and git diff to view the history of files?
+
+    The command 'git log' allows you to review the commit history for a file.
+	The command 'git diff %file1% %file2%' allows you to view the changes made
+	between the two file versions.
+
+How might using version control make you more confident to make changes that
+could break something?
+
+    Having previous versions saved means that we can always revert to a previous
+	working version if a change breaks something.  This allows freedom to try
+	new code.
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+    Not sure what.  Maybe for my resume project.
