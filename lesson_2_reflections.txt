@@ -25,3 +25,8 @@ history organized? How would branches help?
 	be made and committed.  At some future point, the branches can be
 	merged if desired.
 
+How do the diagrams help you visualize the branch structure?
+
+	Diagrams visually delineate how the various commits and branches are
+	related.
+
