@@ -36,3 +36,11 @@ it in the diagram the way we do?
 	When two branches are merged, the code in the two branches is combined
 	to reflect the various additions and deletions made.  It is shown on
 	the branch diagram with both branches as the parents of the new node.
+	
+What are the pros and cons of Git’s automatic merging vs. always doing merges
+manually?
+
+	Automatic merging identifies potential conflicts automatically and
+	notifies the user.  It may, however, merge the changes improperly.
+	Manual merging requires more human interaction, which can also
+	introduce errors.
