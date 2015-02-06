@@ -16,4 +16,12 @@ How can you use the staging area to make sure you have one commit per
 logical change?
 
 	Ummmmmmmmm?  I don't know the answer to this one!
-	
+
+What are some situations when branches would be helpful in keeping your
+history organized? How would branches help?
+
+	Branches might be helpful when major, experimental changes are being
+	made to a project, while improvements to the main branch can still
+	be made and committed.  At some future point, the branches can be
+	merged if desired.
+
